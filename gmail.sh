@@ -1,6 +1,7 @@
 #!/bin/bash
 
 
+# this is cammand 
 
 sudo apt-get update
 
